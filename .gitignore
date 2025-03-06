@@ -5,3 +5,7 @@ src/com_dbg
 src/decompile/.vs
 src/decompile/bin
 src/decompile/obj
+
+.vscode
+
+__handlers__

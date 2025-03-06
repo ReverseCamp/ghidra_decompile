@@ -1,0 +1,1 @@
+frida-trace -i "WriteFile*" -i "ReadFile*" decompile.exe

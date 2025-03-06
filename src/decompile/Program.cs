@@ -23,7 +23,7 @@ namespace decompile
                 _manager = new DataUnderlyingPipeManager();
             }
         }
-
+        
         static void Main(string[] args)
         {
             init();
